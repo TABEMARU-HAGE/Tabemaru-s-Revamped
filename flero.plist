@@ -12,7 +12,7 @@
                             <key>kind</key>
                             <string>software-package</string>
                             <key>url</key>
-                            <string>https://github.com/daisuke1227/Daisuke-s-Revamped/releases/download/test/Flero-0.0.3-0x32.ipa</string>
+                            <string>https://raw.githubusercontent.com/TABEMARU-HAGE/Slither-iOS-mod-menu/refs/heads/main/slither.2-0-1.ipa</string>
                         </dict>
                         <dict>
                             <key>kind</key>
@@ -20,7 +20,7 @@
                             <key>needs-shine</key>
                             <false/>
                             <key>url</key>
-                            <string>https://github.com/daisuke1227/Daisuke-s-Revamped/releases/download/test/f22149fcf856d3a779121ae37c3a8c3a.png</string>
+                            <string>https://cdn.discordapp.com/attachments/1273267901071360144/1293684864666570752/IMG_0142.jpg?ex=6708456b&is=6706f3eb&hm=662d0140e299b5b5fe99a7d207a9d72dcc54c853bcbbea3c55f0ed6eba351229&</string>
                         </dict>
                         <dict>
                             <key>kind</key>
@@ -28,19 +28,19 @@
                             <key>needs-shine</key>
                             <false/>
                             <key>url</key>
-                            <string>https://github.com/daisuke1227/Daisuke-s-Revamped/releases/download/test/f22149fcf856d3a779121ae37c3a8c3a.png</string>
+                            <string>https://cdn.discordapp.com/attachments/1273267901071360144/1293684864666570752/IMG_0142.jpg?ex=6708456b&is=6706f3eb&hm=662d0140e299b5b5fe99a7d207a9d72dcc54c853bcbbea3c55f0ed6eba351229&</string>
                         </dict>
                     </array>
                     <key>metadata</key>
                     <dict>
                         <key>bundle-identifier</key>
-                        <string>com.sp67.flero</string>
+                        <string>com.Tabe.io.slither</string>
                         <key>bundle-version</key>
-                        <string>2.206</string>
+                        <string>1.6.9</string>
                         <key>kind</key>
                         <string>software</string>
                         <key>title</key>
-                        <string>Flero</string>
+                        <string>slither.io</string>
                     </dict>
                 </dict>
             </array>
